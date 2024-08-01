@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: gstore-auth-api
+
+server:
+  port: 3000
